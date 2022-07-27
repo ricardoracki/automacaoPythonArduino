@@ -9,10 +9,9 @@
 
 ## Demo:
 
-<video src="./assets/videos/demo.mp4" width=300 />
->
+[Vídeo de demonstração](<video src="https://raw.githubusercontent.com/ricardoracki/automacaoPythonArduino/main/assets/videos/demo.mp4" width=300 />)
 
-> O projeto Automação com Python e Arduino foi desenvolvido em caráter de estudo.
+> Este projeto foi desenvolvido em caráter de estudo.
 
 ### Ajustes e melhorias
 
