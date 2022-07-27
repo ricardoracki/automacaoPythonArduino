@@ -9,7 +9,7 @@
 
 ## Demo:
 
-[Vídeo de demonstração](<video src="https://raw.githubusercontent.com/ricardoracki/automacaoPythonArduino/main/assets/videos/demo.mp4" width=300 />)
+[Vídeo de demonstração](raw.githubusercontent.com/ricardoracki/automacaoPythonArduino/main/assets/videos/demo.mp4)
 
 > Este projeto foi desenvolvido em caráter de estudo.
 
