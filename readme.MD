@@ -2,8 +2,8 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub language count](https://img.shields.io/github/languages/count/ricardoracki/YTdownloader)
-![Github license](https://img.shields.io/github/license/ricardoracki/YTdownloader)
+![GitHub language count](https://img.shields.io/github/languages/count/ricardoracki/automacaoPythonArduino)
+![Github license](https://img.shields.io/github/license/ricardoracki/automacaoPythonArduino)
 
 <img src="./assets/imgs/design.png" alt="exemplo imagem">
 
